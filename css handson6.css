@@ -1,0 +1,57 @@
+body, html {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url("https://www.pixel4k.com/wp-content/uploads/2018/03/Galactic%20Earth%204K%208K427246154.jpg");
+  }
+  
+* {
+    box-sizing: border-box;
+  }
+  
+.bg-img {
+    background-image:url("https://www.pixel4k.com/wp-content/uploads/2018/03/Galactic%20Earth%204K%208K427246154.jpg");
+  height:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+.container {
+  position: absolute;
+  right:400px;
+  margin: 20px;
+  max-width: 500px;
+  padding: 16px;
+  background-color:grey;
+}
+
+
+input[type=text], input[type=password],select {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background:gainsboro;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+.btn {
+  background-color: blueviolet;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}

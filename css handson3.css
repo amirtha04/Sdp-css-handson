@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+padding:40px;
+color:black;
+  display: table;
+  width: 100%;
+}
+
+.left-half {
+ position: absolute;
+  left: 80px;
+  width: 50%;
+}
+
+.right-half {
+  position: absolute;
+  top:150px;
+  right: 0px;
+  width: 50%;
+}
+body{background-color:pink;}
+
+#heading{
+top:0px;
+left:0px;
+background-color:purple;
+color:white;
+padding:20px;
+}
+
+input{
+padding:20px;
+background-color:gold;
+border-style:solid;
+border-color:purple;
+}
+select{background-color:gold;
+padding:20px;
+border-style:solid;
+border-color:purple;
+}
+textarea{background-color:gold;
+border-style:solid;
+border-color:purple;
+}
+button{
+background-color:purple;
+padding:20px;
+color:white;}
+label{
+padding:0px,50px;
+}

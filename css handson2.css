@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.container{
+background-color:purple;
+padding:100px;
+}
+div{background-color:gold;
+padding:20px;
+}
+
+#health1{
+position: relative;
+    width: 40%;
+    margin-top: 7%;
+
+}
+#health2{
+position: relative;
+    width: 40%;
+    left: 60%;
+    margin-bottom: 0%;
+
+}
+#health3{
+position: relative;
+    width: 40%;
+    margin-top: 7%;
+
+}
+#health4{
+position: relative;
+    width: 20%;
+    left: 60%;
+    margin-bottom: 6%;
+
+}
+#health5{
+position: relative;
+    width: 40%;
+    margin-top: 7%;
+
+
+}
+
+#healthDescription1{ position:relative;
+    left: 30%;
+    display: inline-block;
+}
+#healthParagraph1{position:relative;
+text-align:right;
+left:50%;
+    width:50%;
+    display: inline-block;
+
+}
+
+#healthDescription2{position: relative;
+    margin-top: 0%;
+}
+#healthParagraph2{ position: relative;
+    width: 50%;}
+
+
+#healthDescription3{ position:relative;
+    left: 30%;
+    display: inline-block;
+}
+#healthParagraph3{position:relative;
+    text-align:right;
+    left:50%;
+    width:50%;
+    display: inline-block;
+}
+
+#healthDescription4{  position: relative;
+ margin-top: 0%;
+}
+#healthParagraph4{position: relative;
+    width: 50%;
+}
+
+#healthDescription5{ position:relative;
+    left: 30%;
+    display: inline-block;}
+#healthParagraph5{position:relative;
+    text-align:right;
+top:0;
+    left:50%;
+    width:50%;
+    display: inline-block;
+}
+

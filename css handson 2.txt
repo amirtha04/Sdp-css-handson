@@ -1,0 +1,44 @@
+<doctype html!>
+<html>
+<head>
+<link rel="stylesheet" href="css handson2.css">
+</head>
+<body>
+<div class="container">
+<div class="1">
+<h1 id="titleName">Easy Steps to a Healthier Lifestyle</h1>
+<img id="health1" src="https://www.healthkart.com/connect/wp-content/uploads/2021/05/Banner-6.png">
+<h2 id="healthDescription1">Eat More Fruits and Veggies</h2>
+<p id="healthParagraph1">One of the best ways to stay fit and healthy is to eat a balanced diet. A balanced diet consists of different food items in appropriate quantity and quality as per the requirement of an individual.A balanced diet is easily digestible and contains proteins, vitamins, and minerals in the correct proportions. This diet may vary from one person to another as per bodily requirement (considering physical condition) and doctors' consultation. Along with eating a balanced diet, individuals must avoid junk food and start consuming fresh fruits, vegetables, nuts, and seeds instead.</p>
+</div>
+<br>
+<div class="2">
+<h2 id="healthDescription2">Exercise</h2>
+<p id="healthParagraph2">Exercise is key to maintaining a fit and healthy body.  If you can take out some time to exercise or walk at least for half an hour or one hour, you can shed the extra weight of your body as well as improve blood circulation and enhance muscle fitness.People who heavily rely on an unhealthy diet or have obesity usually suffer from fatigue, stress, and depression. Such people can resolve these issues only by indulging in daily exercise paired with a healthy balanced diet. This will help them bring positive energy, healing, and detoxification into their life.</p>
+<img id="health2" src="https://img.freepik.com/premium-vector/cool-down-after-workout-exercise-set-collection_277904-2419.jpg">
+</div>
+<br>
+
+<div class="3">
+<img id="health3" src="https://149777215.v2.pressablecdn.com/wp-content/uploads/2021/10/dsm-emotional-health-shutterstock-1735801265.jpg">
+<h2 id="healthDescription3">Emotional Health</h2>
+<p id="healthParagraph3"> doing yoga and meditation can bring significant hormonal and bodily changes and positivity in life. It has also been noticed that people practising yoga can better fight stress, depression and build hormonal balance, body strength, and flexibility. On the other hand, meditation improves brain power and helps to align thought processes with health.</p>
+</div>
+<br>
+<div class="4">
+<h2 id="healthDescription4">Drink a lot of Water</h2>
+<p id="healthParagraph4">There are several solutions if you are wondering how to stay healthy. One such easy way is to stay hydrated. To ensure the optimal functioning of our body, we have to keep our body hydrated, and there can be no better alternative than water.You must have at least 16 glasses of water a day to maintain a healthy digestive system and energy. Drinking water helps maintain bodily hydration naturally and get rid of toxins through skin and urine. Therefore, drink plenty of water and let this natural cleanser of our organs do its work.</p>
+<img id="health4" src="http://ell.h-cdn.co/assets/16/14/980x980/square-1459779920-pouring-water.jpg">
+</div>
+<br>
+<div class="5">
+<img id="health5" src="https://static.toiimg.com/thumb/msid-71701412,width-1070,height-580,imgsize-309741,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg">
+<h2 id="healthDescription5">Have a cup of green tea</h2>
+<p id="healthParagraph5"> We know it is a great antioxidant, helps burn fat, prevents bad breath, protects against heart disease, and even has anti-ageing properties.To reap maximum health benefits from green tea, it is important to have it at the right time. Studies suggest that the best time to drink green tea is in the morning and before the workout session. </p>
+</div>
+</div>
+
+
+
+</body>
+</html>
